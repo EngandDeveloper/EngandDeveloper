@@ -20,7 +20,7 @@ I have explored many different sub-fields of software engineering to discover ne
 * **Game Development**
   * Using PyGame Module
   * Basic Games with JavaScript 
-  * using Unity Game Engine & C# (Both for Mobile and Desktop)
+  * Using Unity Game Engine & C# (Both for Mobile and Desktop)
 * **Web Development**
   * With Vanilla JavaScript, HTML, CSS, Firebase
   * Utilizing CSS frameworks such as Bootstrap & Skeleton
