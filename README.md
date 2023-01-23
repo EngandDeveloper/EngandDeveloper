@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 [![enganddeveloper's github stats](https://github-readme-stats.vercel.app/api?username=enganddeveloper&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Code for Showing Most Frequently Used Programming Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enganddeveloper)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enganddeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
