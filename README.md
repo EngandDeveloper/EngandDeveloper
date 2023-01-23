@@ -2,6 +2,12 @@
 
 **I am doing a double major on my two favourite subjects: Software Engineering & Management.**
 
+<!-- Code for Github Stats -->
+[![enganddeveloper's github stats](https://github-readme-stats.vercel.app/api?username=enganddeveloper&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Code for Showing Most Frequently Used Programming Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enganddeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 I have explored many different sub-fields of software engineering to discover new methods, gain broader perspective of software engineering landscape and to find what I love. So far I have studies and/or done some small to mid size projects in the following areas:
 * **Mobile Development**
   * Native Android Development with Java
@@ -52,8 +58,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Code for Github Stats -->
-[![enganddeveloper's github stats](https://github-readme-stats.vercel.app/api?username=enganddeveloper&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Code for Showing Most Frequently Used Programming Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enganddeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
