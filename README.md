@@ -8,7 +8,7 @@
 <!-- Code for Showing Most Frequently Used Programming Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enganddeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-I have explored many different sub-fields of software engineering to discover new methods, gain broader perspective of software engineering landscape and to find what I love. So far I have studies and/or done some small to mid size projects in the following areas:
+I have explored many different sub-fields of software engineering to discover new methods, gain broader perspective of software engineering landscape and to find what I love. So far I have studied and/or done some small to mid size projects in the following areas:
 * **Mobile Development**
   * Native Android Development with Java
   * Multi-platform development with React Native
